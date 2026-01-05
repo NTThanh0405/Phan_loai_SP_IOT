@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pillow
+pyzbar
+ultralytics
+pandas
+openpyxl
